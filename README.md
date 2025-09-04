@@ -72,9 +72,6 @@ Select an option to begin your assessment.
 -   **Adaptive brute-force:** A traditional sequential brute-force attack. Useful as a fallback or for systems with weak rate-limiting.
 -   **AI-driven attack:** Leverages the trained AI model to prioritize OTP guesses based on predicted success likelihood, potentially speeding up the discovery of valid OTPs, especially in the presence of timing side-channels.
 
-## ⚠️ Ethical Use Disclaimer
-
-This tool is intended for **ethical hacking, security research, and educational purposes only**. Unauthorized access to computer systems and networks is illegal and unethical. The developers of HarpyOTP are not responsible for any misuse or damage caused by this software. Always obtain explicit permission from the system owner before conducting any security testing.
 
 ## 🛣️ Future Enhancements
 
